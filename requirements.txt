@@ -1,0 +1,14 @@
+numpy>=2.0
+scipy>=1.13
+networkx>=3.3
+scikit-image>=0.24
+sknw>=0.15
+numba            # required by sknw
+tifffile>=2024.8
+zarr>=2.18
+dask>=2024.8
+matplotlib>=3.9
+
+# Optional GPU acceleration (install the build matching your CUDA version):
+# cupy-cuda12x
+# cucim          (conda, Linux only)

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Pathology/
+
+# Image data and results (patient tissue, large files)
+data/
+
+# Report, presentation and other non-code material
+Presentation/
+PROJECT_BRIEFING.md
+*.pdf
+
+# Local backups and editor settings
+_backup_before_cleanup/
+.claude/
+.vscode/
+.idea/
